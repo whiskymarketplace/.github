@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/website.png" alt="Whisky Marketplace — Compare whisky prices" width="100%" />
+  <img src="website.png" alt="Whisky Marketplace — Compare whisky prices" width="100%" />
 </p>
 
 Independent whisky price comparison. In your language, in your currency, from retailers who ship to you.
